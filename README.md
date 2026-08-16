@@ -1,12 +1,5 @@
 SAMUEL ZAPATAA ALVAREZ
 
-DIAGRAMA PARA ALGORITMOS  
-(PARA PROGRAMACIÓN)
+REPOSITORIO UNIDAD 2 (ALGORITMOS)
 
-EJERCICIO 1
-![imagen1](./imagenes/flujo.png)
-EJERCICIO 2
-![imagen2](./imagenes/DIAGRAMA1.drawio.png)
-EJERCICIO 3
-![imagen3](./imagenes/DIAGRAMA2.drawio.png)
-
+En el presente repositorio se presentan algunos ejercicios referentes a algoritmos usando diagramas de flujo/seudocódigos para solucionar problemas.
